@@ -1,0 +1,28 @@
+{
+  "name": "debounce-service",
+  "version": "1.0.0",
+  "description": "Debouncing service to prevent multiple clicks on event triggers",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchilla/debounce-service.git"
+  },
+  "keywords": [
+    "debounce"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchilla/debounce-service/issues"
+  },
+  "homepage": "https://github.com/jchilla/debounce-service#readme",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3"
+  }
+}
